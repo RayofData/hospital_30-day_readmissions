@@ -1,0 +1,15 @@
+﻿# Data manipulation and modeling
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook environment (includes the Python kernel)
+jupyterlab
+
+# Testing and Python formatting
+pytest
+black
