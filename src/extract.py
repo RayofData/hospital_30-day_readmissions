@@ -63,7 +63,7 @@ def save_data(df, variables_df):
     df.to_csv(DATA_PATH, index=False)
     variables_df.to_csv(VARIABLES_PATH)
     print(f"\nSaved raw data to: {DATA_PATH}")
-    print(f"\nSaved variable metadata to: {VARIABLES_PATH}")
+    print(f"Saved variables metadata to: {VARIABLES_PATH}")
 
 
 def main():
