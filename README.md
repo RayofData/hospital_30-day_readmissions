@@ -9,8 +9,7 @@ The project will use the UCI Diabetes 130-US Hospitals dataset to build a binary
 ## Dataset
 
 Dataset: [Diabetes 130-US Hospitals for Years 1999–2008](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
-
-The dataset contains hospital encounter records for patients with diabetes from 130 U.S. hospitals between 1999 and 2008.
+Clore, John, et al. "Diabetes 130-US Hospitals for Years 1999-2008." UCI Machine Learning Repository, 2014, https://doi.org/10.24432/C5230J.
 
 
 ## Project Structure
@@ -43,3 +42,4 @@ The project currently uses:
 * JupyterLab
 * pytest
 * Black
+
